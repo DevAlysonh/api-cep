@@ -1,0 +1,17 @@
+{
+    "name": "devalyson/apicep",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DevAlysonh",
+            "email": "dev.alysonh@gmail.com"
+        }
+    ],
+    "require": {}
+}
